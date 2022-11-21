@@ -1,2 +1,2 @@
-# java101metotlarveasiniflar
-Patika.dev java101 ödevleri www.patika.dev
+# Java101 Metotlar ve Sınıflar Ödevleri
+www.patika.dev
